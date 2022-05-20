@@ -1,0 +1,11 @@
+1. How to create git repository
+2. How to add files (such as .gitignore and README.md)
+3. How to stage changes
+4. How to commit changes
+5. How to create branch and switch to branch
+6. How to make changes in new branch
+7. How to merge branches
+8. How to connect local repo and remote repo
+9. How to push changes
+10. How to make changes in GitHub
+11. How to pull GitHub changes in local repository
